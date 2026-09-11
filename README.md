@@ -39,3 +39,8 @@ cd client
 npm install
 npm run tauri dev
 ```
+
+## 客户端打包与发布
+
+详细的 macOS（DMG / APP）与 Windows（EXE / MSI）客户端打包教程及 CI/CD 自动化构建配置，请参阅：
+👉 **[客户端跨平台打包指南 (BUILD_GUIDE.md)](./BUILD_GUIDE.md)**

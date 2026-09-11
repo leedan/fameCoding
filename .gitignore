@@ -10,7 +10,8 @@ Thumbs.db
 # Build
 **/target/
 **/dist/
-**/node_modules/
+**/node_modules
+node_modules
 **/src-tauri/target/
 
 # Logs & Runtime
