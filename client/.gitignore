@@ -1,0 +1,15 @@
+/.idea/
+
+# OS
+.DS_Store
+
+# Build artifacts
+dist/
+node_modules/
+
+# Rust/Tauri
+src-tauri/Cargo.lock
+src-tauri/target/
+/src/__tests__/e2e-normalize.test.ts
+/sse-markdown-test.cjs
+/test-render-issue.mjs
